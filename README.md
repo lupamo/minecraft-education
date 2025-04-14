@@ -54,10 +54,10 @@ To join the Wikipedia Knowledge Temple server:
 2. Click "Multiplayer" from the main menu
 3. Click "Add Server"
 4. Enter any server name (e.g., "Wikipedia Temple")
-5. For the server address, enter: `wikitemple.aternos.me`
+5. For the server address, enter: `lupamo_Arnold.aternos.me`
 6. Click "Done" and join the server
 
-**Note:** As this is hosted on Aternos' free tier, the server automatically shuts down when no players are online. If you find the server offline, please message me and I can start it up for you to explore!
+**Note:** As this is hosted on Aternos' free tier, the server automatically shuts down after 5 minuites when no players are online. If you find the server offline, please email me (arnoldlupamo@gmail.com) and I can start it up for you to explore!
 
 ## Future Enhancements
 
