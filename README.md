@@ -20,7 +20,7 @@ For this project, I used Aternos as the hosting service due to its user-friendly
 
 ### Building the Knowledge Temple
 
-The Wikipedia Knowledge Temple was constructed using the following approach:
+I constructed Wikipedia Knowledge Temple using the following approach:
 
 1. **Planning Phase:**
    * Designed a temple layout with distinct areas for different Wikipedia themes
@@ -28,11 +28,12 @@ The Wikipedia Knowledge Temple was constructed using the following approach:
    * Planned interactive elements for visitor engagement
 
 2. **Main Structure:**
+   * Right after spawning you need to navigate through the maze to gate to the temple
    * Built the temple entrance featuring the Wikipedia puzzle globe logo using colored wool blocks
    * Created a central hall with branching pathways to different themed rooms
    * Used quartz and stone brick as primary building materials to create a scholarly atmosphere
 
-3. **Interactive Elements:**
+4. **Interactive Elements:**
    * **Quiz Room:** Implemented a Wikipedia facts quiz using pressure plates and redstone mechanisms
    * **Did You Know Corner:** Created an exhibition with signs displaying interesting Wikipedia statistics
    * **Growth Visualization:** Built a block-based chart showing Wikipedia's article growth using differently colored blocks to represent years
